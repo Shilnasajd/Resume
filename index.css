@@ -1,0 +1,41 @@
+.a{
+    position: relative;
+    height: 1300px;
+    background-color: whitesmoke;
+}
+/* .b{
+    position: absolute;
+    left: 50%; */
+
+
+/* } */
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    
+}
+.c{
+    height: 1300px;
+    background-color: whitesmoke;
+}
+h3{
+    color: black;
+    align-content: center;
+
+}
+p{
+    color: black  ;
+}
+h2{
+    color: white;
+}
+.z{
+    box-shadow: 10px 10px 8px #888888;}
+    .navbar{
+        background-color: black;
+    }
+    h5{
+        color: orange;
+    }
+   
