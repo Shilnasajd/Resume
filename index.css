@@ -1,6 +1,6 @@
 .a{
     position: relative;
-    height: 1300px;
+    height: 1200px;
     background-color: whitesmoke;
 }
 /* .b{
@@ -17,7 +17,7 @@ img{
     
 }
 .c{
-    height: 1300px;
+    height: 1200px;
     background-color: whitesmoke;
 }
 h3{
@@ -42,3 +42,5 @@ h2{
 .k{
     background-color: black;
 }
+@media query
+
