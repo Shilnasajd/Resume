@@ -10,9 +10,10 @@
 
 /* } */
 img{
-    width: 100px;
-    height: 100px;
-    border-radius: 15px;
+    width: 130px;
+    height: 161px;
+    margin-top: 50px;
+    margin-left: 30px;
     
 }
 .c{
@@ -38,4 +39,6 @@ h2{
     h5{
         color: orange;
     }
-   
+.k{
+    background-color: black;
+}
